@@ -5,7 +5,7 @@
 ### 请求参数：
 参数 | 类型 | 必选 | 说明
 ---|---|---|---
-| <span style="color:red">currency_code</span> | String | 否 | 货币编码（默认USD） |
+| currency_code | String | 否 | 货币编码（默认USD） |
 ###  返回参数：（object）
 |参数 |  类型 | 说明|
 | :--- |:---:| :---|
