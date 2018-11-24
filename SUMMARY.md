@@ -66,3 +66,4 @@
   * [购物车更新](cart/update.md)
   * [购物车同步](cart/sync.md)
   * [购物车提交](cart/checkout.md)
+  * [去支付](cart/pay.md)
