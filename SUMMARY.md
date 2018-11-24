@@ -53,7 +53,7 @@
   * [银行卡添加](bank/add.md)
   * [银行卡删除](bank/delete.md)
 * [购物车](cart/README.md)
-  * [银行卡列表](cart/list.md)
+  * [购物车添加](cart/list.md)
   * [银行卡信息](cart/info.md)
   * [设置默认银行卡](cart/default.md)
   * [银行卡编辑](cart/edit.md)
