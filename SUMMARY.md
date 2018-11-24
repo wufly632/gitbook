@@ -37,3 +37,6 @@
 * [积分](integral/README.md)
   * [列表](integral/list.md)
   * [H5](integral/h5.md)
+* [余额](finance/README.md)
+  * [列表](finance/list.md)
+  * [H5](finance/h5.md)
