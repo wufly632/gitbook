@@ -53,7 +53,7 @@
   * [银行卡添加](bank/add.md)
   * [银行卡删除](bank/delete.md)
 * [购物车](cart/README.md)
-  * [银行卡详情](cart/info.md)
+  * [购物车详情](cart/info.md)
   * [购物车添加](cart/add.md)
   * [购物车删除](cart/delete.md)
   * [购物车更新](cart/update.md)
