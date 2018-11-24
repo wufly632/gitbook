@@ -39,4 +39,4 @@
   * [H5](integral/h5.md)
 * [余额](finance/README.md)
   * [交易流水](finance/list.md)
-  * [H5](finance/h5.md)
+  * [累计收益](finance/income.md)
