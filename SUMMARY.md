@@ -47,4 +47,4 @@
   * [银行卡信息](bank/info.md)
   * [设置默认银行卡](bank/default.md)
   * [银行卡编辑](bank/edit.md)
-  * [银行卡添加](bank/edit.md)
+  * [银行卡添加](bank/add.md)
