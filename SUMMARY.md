@@ -44,5 +44,5 @@
   * [待入账](finance/wait.md)
 * [银行卡](bank/README.md)
   * [银行卡列表](bank/list.md)
-  * [累计收益](bank/income.md)
+  * [银行卡信息](bank/info.md)
   * [待入账](bank/wait.md)
