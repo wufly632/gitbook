@@ -6,6 +6,7 @@
   * [pc](part1/pc.md)
 * [商品](goods/README.md)
   * [商品详情](goods/detail.md)
+  * [商品详情](goods/detail.md)
   * [热门关键词](goods/hotword.md)
 * [类目管理](category/README.md)
   * [pc类目](category/pc.md)
