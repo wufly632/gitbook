@@ -27,6 +27,7 @@
   * [个人资料](personal/info.md)
   * [修改资料](personal/edit.md)
   * [头像修改](personal/logo.md)
+  * [粉丝列表](personal/fans.md)
 * [订单管理](order/README.md)
   * [订单列表](order/list.md)
   * [订单详情](order/detail.md)
