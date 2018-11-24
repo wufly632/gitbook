@@ -5,4 +5,6 @@
   * [h5](part1/h5.md)
   * [pc](part1/pc.md)
 * [商品](goods/README.md)
+  * [商品详情](goods/detail.md)
+
 
