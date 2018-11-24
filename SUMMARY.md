@@ -20,6 +20,7 @@
   * [地址信息](district/info.md)
   * [地址修改](district/edit.md)
   * [地址删除](district/delete.md)
+  * [设置默认地址](district/default.md)
 * [登录/注册](log/README.md)
   * [注册](log/register.md)
   * [登录](log/login.md)
