@@ -58,3 +58,4 @@
   * [购物车添加](cart/add.md)
   * [购物车删除](cart/delete.md)
   * [购物车更新](cart/update.md)
+  * [购物车同步](cart/sync.md)
