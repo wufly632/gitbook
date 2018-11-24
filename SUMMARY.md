@@ -12,5 +12,12 @@
   * [h5类目](category/h5.md)
 * [地区管理](district/README.md)
   * [国家列表](district/country.md)
+* [登录/注册](log/README.md)
+  * [注册](log/register.md)
+  * [登录](log/login.md)
+  * [忘记密码](log/register.md)
+
+
+
 
 
