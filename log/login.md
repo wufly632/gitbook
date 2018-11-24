@@ -8,7 +8,7 @@ post
 |---|---|---|---|
 |email | string | 是 | 用户邮箱 |
 |password | string | 是 | 密码 |
-|token | string 否 | 游客token |
+|token | string | 否 | 游客token |
 ### 返回示例
 ```
 {
