@@ -31,3 +31,6 @@
   * [订单签收](order/sign.md)
   * [订单取消](order/cancel.md)
   * [物流详情](order/express.md)
+* [积分](integral/README.md)
+  * [列表](integral/pc.md)
+  * [H5](integral/h5.md)
