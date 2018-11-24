@@ -41,3 +41,4 @@
 * [余额](finance/README.md)
   * [交易流水](finance/list.md)
   * [累计收益](finance/income.md)
+  * [待入账](finance/wait.md)
