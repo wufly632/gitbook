@@ -19,7 +19,7 @@
 | daily | Array | daily delection 商品数据 |
 | storey | Array | 促销广告信息 |
 | goods | Array | 结果商品数据 |
-| <span style="color:red">currency_symbol</span> | String | 货币符号 |
+| currency_symbol | String | 货币符号 |
 | total_page | Int | 总页数 |
 #### daily：
 |参数 |  类型 | 说明|
