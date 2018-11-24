@@ -45,4 +45,4 @@
 * [银行卡](bank/README.md)
   * [银行卡列表](bank/list.md)
   * [银行卡信息](bank/info.md)
-  * [待入账](bank/wait.md)
+  * [设置默认银行卡](bank/default.md)
