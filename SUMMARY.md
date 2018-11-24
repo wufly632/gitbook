@@ -38,5 +38,5 @@
   * [列表](integral/list.md)
   * [H5](integral/h5.md)
 * [余额](finance/README.md)
-  * [明细](finance/list.md)
+  * [交易流水](finance/list.md)
   * [H5](finance/h5.md)
