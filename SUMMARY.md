@@ -46,3 +46,4 @@
   * [银行卡列表](bank/list.md)
   * [银行卡信息](bank/info.md)
   * [设置默认银行卡](bank/default.md)
+  * [银行卡编辑](bank/default.md)
