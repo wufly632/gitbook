@@ -5,7 +5,7 @@
 #### 请求参数：
 |参数 | 必填 | 类型 |  说明|
 |:---|:---:|:---:|:---|
-| token | 否 | String | 用户登录信令 |
+| token | 是 | String | 用户登录信令 |
 | good_id | 是 | number | 商品ID |
 | sku_id | 是 | number | sku ID |
 | num | 是 | number | 商品数量 |
