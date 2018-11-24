@@ -23,3 +23,6 @@
 * [个人中心](personal/README.md)
   * [PC](personal/pc.md)
   * [H5](personal/h5.md)
+* [订单管理](order/README.md)
+  * [订单列表](order/list.md)
+  * [订单详情](order/detail.md)
