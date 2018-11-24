@@ -42,3 +42,7 @@
   * [交易流水](finance/list.md)
   * [累计收益](finance/income.md)
   * [待入账](finance/wait.md)
+* [银行卡](bank/README.md)
+  * [银行卡列表](bank/list.md)
+  * [累计收益](bank/income.md)
+  * [待入账](bank/wait.md)
