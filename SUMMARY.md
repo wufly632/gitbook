@@ -6,5 +6,7 @@
   * [pc](part1/pc.md)
 * [商品](goods/README.md)
   * [商品详情](goods/detail.md)
-* [地区管理](district.md)
+* [地区管理](district/district.md)
+  * [国家列表](district/country.md)
+
 
