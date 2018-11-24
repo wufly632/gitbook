@@ -45,6 +45,7 @@
   * [订单取消](order/cancel.md)
   * [物流详情](order/express.md)
   * [去支付](order/pay.md)
+  * [支付状态](order/paystatus.md)
 * [积分](integral/README.md)
   * [列表](integral/list.md)
   * [H5](integral/h5.md)
