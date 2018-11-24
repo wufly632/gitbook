@@ -4,11 +4,11 @@
 ### 请求方式
 post
 ### 请求参数
-参数 | 类型 | 必选 | 说明
----|---|---|---
-email | string | 是 | 用户邮箱
-password | string | 是 | 密码
-token | string 否 | 游客token
+|参数 | 类型 | 必选 | 说明 |
+|---|---|---|---|
+|email | string | 是 | 用户邮箱 |
+|password | string | 是 | 密码 |
+|token | string 否 | 游客token |
 ### 返回示例
 ```
 {
