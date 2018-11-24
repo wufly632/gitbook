@@ -26,3 +26,5 @@
 * [订单管理](order/README.md)
   * [订单列表](order/list.md)
   * [订单详情](order/detail.md)
+  * [订单删除](order/delete.md)
+  * [订单签收](order/sign.md)
