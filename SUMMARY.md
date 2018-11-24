@@ -15,7 +15,8 @@
 * [登录/注册](log/README.md)
   * [注册](log/register.md)
   * [登录](log/login.md)
-  * [忘记密码](log/pwreset.md)
+  * [密码重置](log/pwsave.md)
+  * [邮件发送](log/pwreset.md)
 
 
 
