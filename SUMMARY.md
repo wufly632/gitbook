@@ -48,3 +48,4 @@
   * [设置默认银行卡](bank/default.md)
   * [银行卡编辑](bank/edit.md)
   * [银行卡添加](bank/add.md)
+  * [银行卡删除](bank/delete.md)
