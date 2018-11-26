@@ -1,59 +1,78 @@
 ## PC首页
+
 ### 接口地址
+
 /pc/home
+
 ### 请求方式：post
+
 ### 请求参数：
-|参数 | 类型 | 必选 | 说明|
-|---|---|---|---|
-| currency_code | String | 否 | 货币编码（默认USD） |
-###  返回参数：（object）
-|参数 |  类型 | 说明|
-| :--- |:---:| :---|
+
+| 参数 | 类型 | 必选 | 说明 |
+| --- | --- | --- | --- |
+| currency\_code | String | 否 | 货币编码（默认USD） |
+
+### 返回参数：（object）
+
+| 参数 | 类型 | 说明 |
+| :--- | :---: | :--- |
 | status | number | 状态码  200 |
-| msg | String | 失败信息 成功：success 失败：'失败信息'|
-| content | Object | 返回数据  |
+| msg | String | 失败信息 成功：success 失败：'失败信息' |
+| content | Object | 返回数据 |
+
 ### content:
-|参数 |  类型 | 说明|
-| :--- |:---:| :---|
+
+| 参数 | 类型 | 说明 |
+| :--- | :---: | :--- |
 | banners | Array | banner数据 |
 | daily | Array | daily delection 商品数据 |
 | storey | Array | 促销广告信息 |
 | goods | Array | 结果商品数据 |
-| currency_symbol | String | 货币符号 |
-| total_page | Int | 总页数 |
+| currency\_symbol | String | 货币符号 |
+| total\_page | Int | 总页数 |
+
 #### daily：
-|参数 |  类型 | 说明|
-| :--- |:---:| :---|
+
+| 参数 | 类型 | 说明 |
+| :--- | :---: | :--- |
 | id | Number | 商品ID |
 | name | string | 商品标题 |
 | img | string | 商品主图 |
 | price | number | 商品售价 |
-| origin_price | number | 商品原价 |
+| origin\_price | number | 商品原价 |
 | rebate | number | 商品返利 |
 | stock | number | 库存 |
-#### storey [object]:
-|参数 |  类型 | 说明|
-| :--- |:---:| :---|
-| storey_title | string | 标题 |
-| storey_url | string | 链接 |
-| storey_left | Array | 促销左侧信息 |
-| storey_right | Array | 促销右侧信息 |
-##### storey_left：
-|参数 |  类型 | 说明|
-| :--- |:---:| :---|
+
+#### storey \[object\]:
+
+| 参数 | 类型 | 说明 |
+| :--- | :---: | :--- |
+| storey\_title | string | 标题 |
+| storey\_url | string | 链接 |
+| storey\_left | Array | 促销左侧信息 |
+| storey\_right | Array | 促销右侧信息 |
+
+##### storey\_left：
+
+| 参数 | 类型 | 说明 |
+| :--- | :---: | :--- |
 | img | string | 图片 |
 | url | string | 链接 |
-##### storey_right：
-|参数 |  类型 | 说明|
-| :--- |:---:| :---|
+
+##### storey\_right：
+
+| 参数 | 类型 | 说明 |
+| :--- | :---: | :--- |
 | id | Number | 商品ID |
 | name | string | 商品标题 |
 | img | string | 商品主图 |
 | price | number | 商品售价 |
-| origin_price | number | 商品原价 |
+| origin\_price | number | 商品原价 |
 | rebate | number | 商品返利 |
 | stock | number | 库存 |
+
 ### 返回示例
+
 ```
 {
     "status": 200,
@@ -189,3 +208,6 @@
     }
 }
 ```
+
+
+

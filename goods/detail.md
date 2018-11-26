@@ -59,7 +59,8 @@
 |参数 |  类型 | 说明|
 | :--- |:---:| :---|    
 | id | number | 优惠券ID |
-|  currency_symbol | String | 货币符号 |
+| type | Int | 券类型 （1-面额，2-折扣）|
+| currency_symbol | String | 货币符号 |
 | price | Float | 优惠券金额 |
 | use_price | Float | 使用条件 |
 | startdate | String | 开始时间 |
