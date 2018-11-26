@@ -48,7 +48,7 @@
 |参数 |  类型 | 说明|
 | :--- |:---:| :---|
 | id | Number | 优惠券id |
-| type  | Int | 优惠券类型 |
+| type  | Int | 优惠券类型(1-面额 2-折扣) |
 | currency_symbol  | String |货币符号 |
 | price | float | 优惠券面额/折扣 |
 | use_price | float | 优惠券使用条件 |
