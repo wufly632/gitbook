@@ -102,6 +102,7 @@
         "coupon": [
             {
                 "id": 20,
+                "type": 2,
                 "price": "$10",
                 "use_price": "$100",
                 "startdate": "2018-09-12 16:05:16",
