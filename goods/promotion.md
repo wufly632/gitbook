@@ -73,13 +73,15 @@
         "coupons": [
             {
                 "id": 65,
+                "type": 2,
                 "currency_symbol":"$",
-                "price": "10.00",
+                "price": 9,
                 "use_price": "90.00"
                 "startdate": "2018-09-13 16:05:00",
                 "enddate": "2018-10-31 16:05:06"
             },{
                 "id": 66,
+                "type": 1,
                 "currency_symbol":"$",
                 "price": "10.00",
                 "use_price": "90.00"
