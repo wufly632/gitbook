@@ -22,13 +22,15 @@
         "coupons": [
             {
                 "id": 85,
-                "price": 10,
+                "type": 2,
+                "price": 9,
                 "use_price": 90,
                 "startdata": "2018-09-13 16:05:00",
                 "enddate": "2018-10-31 16:05:06"
             },
             {
                 "id": 86,
+                "type": 1,
                 "price": 43,
                 "use_price": 11,
                 "startdata": "2018-10-21 04:07:21",

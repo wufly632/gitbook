@@ -21,7 +21,7 @@
 #### coupons：（[object]）
 |参数 |  类型 | 说明|
 | :--- |:---:| :---|
-|  currency_symbol | String | 货币符号 |
+| currency_symbol | String | 货币符号 |
 | price | Float | 优惠券金额 |
 | use_price | Float | 使用条件 |
 | startdate | String | 开始时间 |
